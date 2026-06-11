@@ -1,2 +1,4 @@
-// Script básico para futuras interações
-console.log("Raízes do Futuro carregado!");
+// Pequeno efeito de boas-vindas
+window.addEventListener('load', () => {
+    console.log("Bem-vindo à página 'Raízes do Futuro'! 🌱");
+});
